@@ -30,7 +30,9 @@
         margin-left: 8px;
     }
     
-        .button {
+
+        
+    button > span {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
@@ -41,17 +43,14 @@
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-}
         
-    button > span {
-        color: green;
     }
     </style>
 </head>
 
 <body>
     <div class="container">
-        <h1>Shopping List Check Off</h1>
+        <h1>Shopping List Items Check Off list:</h1>
         <div class="row">
             <!-- To Buy List -->
             <div class="col-md-6" ng-controller="ToBuyController as toBuyList">
