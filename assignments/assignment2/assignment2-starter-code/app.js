@@ -29,12 +29,12 @@
     function ShoppingListCheckOffService() {
         var service = this;
         var toBuyItems = [
-            { name: "cookies", quantity: 10 },
-            { name: "erasers", quantity: 2 },
-            { name: "pencils", quantity: 6 },
-            { name: "socks", quantity: 8 },
-            { name: "apples", quantity: 4 },
-            { name: "books", quantity: 7 }
+            { name: "Cookies", quantity: 10 },
+            { name: "Erasers", quantity: 2 },
+            { name: "Pencils", quantity: 6 },
+            { name: "Socks", quantity: 8 },
+            { name: "Apples", quantity: 4 },
+            { name: "Books", quantity: 7 }
         ];
         var alreadyBoughtItems = [];
 
