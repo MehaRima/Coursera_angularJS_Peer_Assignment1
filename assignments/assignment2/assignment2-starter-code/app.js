@@ -30,10 +30,11 @@
         var service = this;
         var toBuyItems = [
             { name: "cookies", quantity: 10 },
-            { name: "cokes", quantity: 2 },
-            { name: "beers", quantity: 6 },
+            { name: "erasers", quantity: 2 },
+            { name: "pencils", quantity: 6 },
+            { name: "socks", quantity: 8 },
             { name: "apples", quantity: 4 },
-            { name: "bananas", quantity: 7 }
+            { name: "books", quantity: 7 }
         ];
         var alreadyBoughtItems = [];
 
