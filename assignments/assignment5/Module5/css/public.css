@@ -1,7 +1,7 @@
-/* HOME PAGE */
+  /* HOME PAGE */
 .container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
-  border: 2px solid #3F0C1F;
+  box-shadow: 0 0 50px #2BBAA9;
+  border: 2px solid #2BBAA9;
 }
 
 #menu-tile, #specials-tile, #map-tile {
@@ -40,10 +40,10 @@
 /* MENU CATEGORIES PAGE */
 .category-tile {
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #e6e6ff;
   overflow: hidden;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto 15px;
 }
 .category-tile span {
@@ -59,7 +59,7 @@
   opacity: .8;
 }
 .category-tile:hover {
-  box-shadow: 0 1px 5px 1px #cccccc;
+  box-shadow: 0 1px 5px 1px #ccccff;
 }
 
 #menu-categories-title + div {
@@ -182,4 +182,3 @@ h3.menu-item-title {
     float: left;
     width: 100%;
   }
-}
