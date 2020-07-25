@@ -47,7 +47,7 @@ body {
 .navbar-brand p { /* Kosher cert */
   color: #000;
   text-transform: uppercase;
-  font-size: .7em;
+  font-size: .5em;
   margin-top: 15px;
 }
 .navbar-brand p span { /* Star-K */
