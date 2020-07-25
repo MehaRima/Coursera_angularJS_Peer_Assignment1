@@ -38,7 +38,7 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 5px ;
-  margin-bottom: 2px ;
+  margin-bottom: 5px ;
   line-height: .75;
   padding: 5px;
 }
@@ -61,7 +61,7 @@ body {
 }
 #nav-list a {
   color: #951C49;
-  text-align: right;
+  text-align: center;
 }
 #nav-list a:hover {
   background: #E7E7E7;
