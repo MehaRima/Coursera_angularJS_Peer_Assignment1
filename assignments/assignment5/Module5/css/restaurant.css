@@ -13,7 +13,7 @@ body {
 #header-nav {
   background-color: #d4d4aa;
   border-radius: 0;
-  border: 0;
+  border: 1 px;
 }
 
 #logo-img {
@@ -21,16 +21,10 @@ body {
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
+  display: block;
+  padding: 5px;
 }
 
-.img {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
 
 .navbar-brand {
   padding-top: 25px;
