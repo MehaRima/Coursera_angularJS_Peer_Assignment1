@@ -15,6 +15,7 @@ body {
   border-radius: 1 px;
   border: 1 px;
   border-color: #1f3836;
+  text-align: center;
 }
 
 #logo-img {
@@ -32,12 +33,12 @@ body {
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
-  font-size: 1.5em;
+  font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 2px ;
+  margin-bottom: 1px ;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -55,6 +56,7 @@ body {
 
 #nav-list {
   margin-top: 10px;
+  text-align: right;
 }
 #nav-list a {
   color: #951C49;
