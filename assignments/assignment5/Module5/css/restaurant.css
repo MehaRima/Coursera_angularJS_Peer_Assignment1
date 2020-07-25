@@ -33,13 +33,14 @@ body {
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
-  font-size: 2.2em;
+  font-size: 2.1em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
   margin-top: 5px ;
   margin-bottom: 2px ;
   line-height: .75;
+  padding: 5px;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
@@ -60,7 +61,7 @@ body {
 }
 #nav-list a {
   color: #951C49;
-  text-align: center;
+  text-align: right;
 }
 #nav-list a:hover {
   background: #E7E7E7;
@@ -74,7 +75,7 @@ body {
 }
 #phone a { /* Phone number */
   text-align: right;
-  padding-bottom: 0;
+  padding-bottom: 2px ;
 }
 #phone div { /* We Deliver */
   color: #557c3e;
