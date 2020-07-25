@@ -23,6 +23,15 @@ body {
   margin: 10px 15px 10px 0;
 }
 
+.img {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
 .navbar-brand {
   padding-top: 25px;
 }
