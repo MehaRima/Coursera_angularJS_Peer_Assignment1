@@ -58,16 +58,18 @@ body {
 #nav-list {
   margin-top: 20px;
   text-align: right;
+  padding-right: 15px;
+  padding-top: 15px;
 }
 #nav-list a {
   color: #951C49;
-  text-align: center;
+  text-align: right;
 }
 #nav-list a:hover {
   background: #E7E7E7;
 }
 #nav-list a span {
-  font-size: 1.8em;
+  font-size: 1.6em;
 }
 
 #phone {
