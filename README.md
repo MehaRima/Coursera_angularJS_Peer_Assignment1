@@ -13,3 +13,15 @@ As part of this course we developed a *real* website for a *real* client. Below 
 ## Page 2
 
 [Module 2 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment2/assignment2-starter-code/)
+
+## Page 3
+
+[Module 3 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment3/assignment3-starter-code/)
+
+## Page 4
+
+[Module 4 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment4/assignment4-starter-code/)
+
+## Page 5
+
+[Module 5 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment5/assignment5-starter-code/)
