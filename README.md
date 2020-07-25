@@ -20,8 +20,8 @@ As part of this course we developed a *real* website for a *real* client. Below 
 
 ## Page 4
 
-[Module 4 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment4/assignment4-starter-code/)
+[Module 4 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment4/Module4/#!/)
 
 ## Page 5
 
-[Module 5 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment5/assignment5-starter-code/)
+[Module 5 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment5/Module5/#!/)
