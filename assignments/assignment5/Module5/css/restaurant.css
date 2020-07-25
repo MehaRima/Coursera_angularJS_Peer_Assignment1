@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
-  color: #fff;
-  background-color: #61122f;
+  color: #d4d4aa;
+  background-color: #261a0d;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -11,7 +11,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #d4d4aa;
   border-radius: 0;
   border: 0;
 }
@@ -91,7 +91,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: #141f1f;
   border-top: 0;
 }
 .panel-footer div.row {
@@ -195,7 +195,7 @@ a[ui-sref="admin.auth"] {
 @media (max-width: 479px) {
   /* Header */
   .navbar-brand h1 { /* Restaurant name */
-    padding-top: 5px;
+    padding-top: 2px;
     font-size: 6vw;
   }
   /* End Header */
