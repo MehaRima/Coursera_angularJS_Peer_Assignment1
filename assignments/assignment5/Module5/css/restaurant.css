@@ -11,9 +11,10 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #d4d4aa;
-  border-radius: 0;
+  background-color: #f5f5eb;
+  border-radius: 1 px;
   border: 1 px;
+  border-color: #1f3836;
 }
 
 #logo-img {
