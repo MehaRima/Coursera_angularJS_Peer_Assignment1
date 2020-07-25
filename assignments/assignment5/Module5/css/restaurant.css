@@ -40,7 +40,7 @@ body {
   margin-top: 5px ;
   margin-bottom: 5px ;
   line-height: .75;
-  padding: 5px;
+  
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
@@ -88,7 +88,7 @@ body {
 }
 .navbar-header button.navbar-toggle {
   clear: both;
-  margin-top: -30px;
+  margin-top: -40px;
 }
 /* END HEADER */
 
