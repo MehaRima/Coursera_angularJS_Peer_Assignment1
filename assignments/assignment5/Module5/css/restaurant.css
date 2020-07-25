@@ -22,7 +22,7 @@ body {
   background: url('../images/restaurant-logo.png') ;
   width: 250px;
   height: 250px;
-  margin: 10px 15px 10px 0;
+  margin: 10px 15px 10px 5px;
   padding: 15px;
 }
 
@@ -33,12 +33,12 @@ body {
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
   color: #557c3e;
-  font-size: 1.8em;
+  font-size: 2.2em;
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-  margin-top: 2px ;
-  margin-bottom: 1px ;
+  margin-top: 5px ;
+  margin-bottom: 2px ;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
