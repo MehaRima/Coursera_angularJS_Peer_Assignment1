@@ -17,11 +17,10 @@ body {
 }
 
 #logo-img {
-  background: url('../images/restaurant-logo.png') no-repeat;
-  width: 150px;
-  height: 150px;
+  background: url('../images/restaurant-logo.png') ;
+  width: 250px;
+  height: 250px;
   margin: 10px 15px 10px 0;
-  display: block;
   padding: 5px;
 }
 
