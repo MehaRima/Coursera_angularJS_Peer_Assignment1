@@ -1,0 +1,19 @@
+<html>
+  <head></head>
+  <body>
+    <table class="table">
+      <tbody>
+        <tr ng-repeat="item in foundItems.found">  
+          <td>{{ item.short_name }}</td>
+          <td>{{ item.name }}</td>
+          <td>{{ item.description }}</td>
+          <td><button class="btn btn-danger" ng-click="foundItems.removeMenuItem($index);">Don't want this one!</button></td>
+        </tr>
+    </tbody>
+    </table>
+
+  <div class="alert alert-danger" role="alert" ng-if="foundItems.message">{{foundItems.message}}</div>
+  
+  </body>
+  
+</html>
