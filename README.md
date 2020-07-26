@@ -1,4 +1,5 @@
-# Course: Single Page Web Applications with AngularJS
+# *Course:
+## Single Page Web Applications with AngularJS
 
 This repository contains the source code and assignment submissions for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) hosted on [Coursera.org](https://www.coursera.org)
 
@@ -28,3 +29,5 @@ As part of this course I developed a  website for a restaurant. Below is a link 
 ## Page 5
 
 [Module 5 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment5/Module5/)
+
+*Thanks for visiting!! 
