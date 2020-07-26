@@ -30,4 +30,4 @@ As part of this course I developed a  website for a restaurant. Below is a link 
 
 [Module 5 assignment page link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment5/Module5/)
 
-*Thanks for visiting!! 
+*Feedbacks will be highly appreciated.Thanks for stopping by!!* 
