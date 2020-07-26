@@ -1,10 +1,13 @@
 # Course: Single Page Web Applications with AngularJS
 
-This repository contains the source code for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) hosted on [Coursera.org](https://www.coursera.org)
+This repository contains the source code and assignment submissions for the [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/single-page-web-apps-with-angularjs) hosted on [Coursera.org](https://www.coursera.org)
 
 
-## Customer Website Launched
-As part of this course we developed a *real* website for a *real* client. Below is a link to the final product. (*Note*, the site is left without speed optimization to keep it exactly as it was in the course. Site optimization wasn't part of the course).
+## "The City Lantern Food Joint" Website Launched
+As part of this course I developed a  website for a restaurant. Below is a link to the final product. (*Note*, the site is left without speed optimization to keep it exactly as it was in the course. Site optimization wasn't part of the course).
+
+[TCLFJ Website link](https://meharima.github.io/Coursera_angularJS_Peer_Assignment1/assignments/assignment5/Module5/)
+
 
 ## Page 1
 
